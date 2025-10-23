@@ -1,0 +1,13 @@
+{
+  "name": "test-wizard-project",
+  "version": "1.0.0",
+  "description": "Test project for DesignProduct3000 wizard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
